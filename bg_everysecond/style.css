@@ -1,0 +1,28 @@
+/* Simple CSS to center the content */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+  transition: background-color 1s ease; /* Smooth color transition */
+}
+
+h1 {
+  color: white;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#startBtn {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+#stopBtn {
+  background-color: #f44336; /* Red */
+  color: white;
+}
